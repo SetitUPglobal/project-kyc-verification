@@ -2,7 +2,7 @@
 SetitUP KYC verification aims to bring trust, and transparency in blockchain projects. In this repo, we'll upload certificates of the KYC verified projects. To request KYC verification, contact https://t.me/SetitUP_kyc
 
 # About SetitUP Network
-SetitUP Network provides intelligent blockchain solutions. We provide solidity development, testing, and auditing services. We have developed 150+ solidity codes, audited 1000+ smart contracts, and analyzed 500,000+ code lines.
+SetitUP Network provides intelligent blockchain solutions. We provide solidity development, testing, and auditing services. We have developed 500+ solidity codes, audited smart contracts, and analyzed thousands of code lines.
 
 Website: https://SetitUP.global
 
